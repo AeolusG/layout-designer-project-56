@@ -1,0 +1,32 @@
+// Базовые стили проекта
+// @font-face {
+//     font-family: "Roboto";
+//     src: url('src/fonts/Roboto-Black.ttf');
+//   }
+
+$font: "Roboto", sans-serif;
+$font-size: 18px;
+$line-gap: 1.5;
+$font-weight: bold;
+$color: #cacaca;
+$bg-color: #08020d;
+
+//Заголовки на десктоп версии проекта
+
+// Заголовок первого уровня
+$h1-size: 60px;
+$h1-line-gap: 90px;
+
+// Заголовок второго уровня
+$h2-size: 38px;
+$h2-line-gap: 57px;
+
+// Заголовки на мобильной версии проекта
+
+// Заголовок первого уровня
+$mob-h1-size: 30px;
+$mob-h1-line-gap: 45px;
+
+// Заголовок второго уровня
+$mob-h2-size: 18px;
+$mob-h2-line-gap: 27px;

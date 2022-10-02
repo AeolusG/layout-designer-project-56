@@ -1,0 +1,39 @@
+@import "./variables.scss";
+
+@mixin base {
+  font-family: $font;
+font-size: $font-size;
+line-height: $line-gap;
+font-weight: $font-weight;
+color: $color;
+background-color: $bg-color;
+}
+
+@mixin h1-style {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: $h1-size;
+  line-height: $h1-line-gap;
+  color: $color
+}
+@mixin h2-style {
+  color: $color;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: $h2-size;
+  line-height: $h2-line-gap;
+}
+@mixin mobile-h1-style {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: $mob-h1-size;
+  line-height: $mob-h1-line-gap;
+  color: $color;
+}
+@mixin mobile-h2-style {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: $mob-h2-size;
+  line-height: $mob-h2-line-gap;
+  color: $color;
+}

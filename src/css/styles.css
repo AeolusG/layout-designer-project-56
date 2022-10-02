@@ -1,0 +1,26 @@
+.base {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #cacaca;
+  background-color: #08020d;
+}
+
+.header1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 90px;
+  color: #cacaca;
+}
+
+.header2 {
+  color: #cacaca;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 57px;
+}
+
+/*# sourceMappingURL=styles.css.map */

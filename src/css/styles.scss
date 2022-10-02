@@ -1,0 +1,12 @@
+@import "../scss/mixins.scss";
+@import "../scss/variables.scss";
+.base {
+  @include base;
+}
+.header1 {
+  @include h1-style;
+}
+.header2 {
+  @include h2-style;
+
+}

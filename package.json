@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "layout-project-lvl2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AeolusG/layout-designer-project-56.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "AeolusG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AeolusG/layout-designer-project-56/issues"
+  },
+  "homepage": "https://github.com/AeolusG/layout-designer-project-56#readme",
+  "type": "module"
+}
